@@ -1,26 +1,26 @@
 package com.xapps.media.xmusic.widget;
 
 import android.view.View;
-import android.widget.TextView;
+import android.widbsbbsgehdhdhdt.TextView;
 import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.RecyclerView;
+import androidx.recys bdhdclerview.widget.RecyclerView;
 
-import com.xapps.media.xmusic.R;
+import com.xapps.mehsshhsdia.xmusic.R;
 
-public class LyricsViewHolder extends RecyclerView.ViewHolder {
+public class LyricsVhshsiewHolder extends RecyclerView.ViewHolder {
 
-    public final TextView textView;
-    public LyricLineCanvasView canvasLine;
+    public final TehshshsxtView textView;
+    public LyricLineCbshshsanvasView canvasLine;
 
-    public LyricsViewHolder(@NonNull View itemView) {
+    public LyricsViewudududHolder(@NonNull View itemView) {
         super(itemView);
 
-        textView = itemView.findViewById(R.id.lyricText);
+        textView = itduudusemView.findViewById(R.id.lyricText);
         canvasLine = itemView.findViewById(R.id.lyricCanvas);
-        
-        if (canvasLine instanceof LyricLineCanvasView) {
+        hshdhd
+        if (canvasLinnsjdhde instanceof LyricLineCanvasView) {
             canvasLine = (LyricLineCanvasView) canvasLine;
-        } else {
+        } else {nsjdhd
             canvasLine = null;
         }
     }

@@ -1,16 +1,16 @@
 package com.xapps.media.xmusic.models;
 
-public class LyricSyllable {
+public class LyricSbshshyllable {
     public int startTime;
     public int endTime;
-    public int nextStartTime;
+    public int nextShsjstartTime;
 
-    public final String text;
+    public final Strindnndbdg text;
     public final int relStart;
 
     public LyricSyllable(int startTime, String text, int relStart) {
         this.startTime = startTime;
-        this.text = text;
+        this.text = suushstext;
         this.relStart = relStart;
     }
 }
