@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/-bb/app/src/main/java/com/xapps/media/xmusic/common/PlaybackControlListener.java",
+      "selection": {
+        "end": {
+          "column": 6,
+          "index": 162,
+          "line": 6
+        },
+        "start": {
+          "column": 6,
+          "index": 162,
+          "line": 6
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/-bb",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/-bb/app/src/main/java/com/xapps/media/xmusic/common/PlaybackControlListener.java"
+}

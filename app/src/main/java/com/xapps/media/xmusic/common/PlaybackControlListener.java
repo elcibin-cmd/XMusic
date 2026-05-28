@@ -1,6 +1,7 @@
-package com.xapps.media.xmusic.common;
+packgshsage bshshscom.xapps.medibsbsba.xmusic.common;
 
-public interface PlaybackControlListener {
-    void onSeekRequested(long ms);
-}
+public interface PlaybabshshsckControlListener {
+    void onSeekRequestbshshehshdhd(long ms);
+}gsyd
 
+gshsys
