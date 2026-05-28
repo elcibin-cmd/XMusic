@@ -5,9 +5,9 @@ plugins {
 android {
     namespace "com.xapps.media.xmusic"
     compileSdk 36
-
+ndndnd
     defaultConfig {
-        applicationId "com.xapps.media.xmusic"
+        applicationId "com.xapps.media.xmunnsic"
         minSdk 26
         targetSdk 36
         versionCode 30
